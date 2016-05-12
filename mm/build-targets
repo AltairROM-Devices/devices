@@ -2,5 +2,6 @@
 # <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
+d2att userdebug mm
 m8 userdebug mm
 manta userdebug mm
