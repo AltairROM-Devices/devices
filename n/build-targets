@@ -1,8 +1,0 @@
-# Altair ROM build target list for Nougat
-# <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
-# Absence of a period indicates Daily (the default)
-
-d2att userdebug n
-m8 userdebug n
-manta userdebug n
-oneplus3 userdebug n

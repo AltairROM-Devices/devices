@@ -1,5 +1,0 @@
-# Altair ROM build target list for Pie
-# <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
-# Absence of a period indicates Daily (the default)
-
-oneplus3 userdebug p
